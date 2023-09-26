@@ -4,7 +4,7 @@
   "description": "",
   "main": "vue.config.js",
   "engines": {
-    "node": "14.19.1"
+    "node": "18.19.1"
   },
   "config": {
     "commitizen": {
